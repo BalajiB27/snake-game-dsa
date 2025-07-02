@@ -1,27 +1,22 @@
-# 🐍 Snake Game Using DSA
+ Snake Game Using DSA
 
 This project is a console-based Snake Game implemented in C++ using data structures and algorithms. It uses arrays or linked lists to represent the snake's body and logic for movement, collision detection, and food generation.
 
-## 💡 Key Concepts Used:
+## Key Concepts Used:
 - Arrays / Linked Lists for snake body
 - Collision detection logic
 - Real-time key event handling
 - Dynamic memory allocation
 
-## ⚙️ Tech Used:
+## Tech Used:
 - C++
 - Console Graphics
 - DSA Concepts
 
-## 📚 Learning Outcome:
+##  Learning Outcome:
 This project helps in understanding DSA concepts like:
 - Memory handling
 - Real-time updates
 - Queue behavior of snake growth
 
-## 🚀 How to Run:
-Compile the `snake.cpp` file in a C++ environment that supports real-time inputs.
 
----
-
-> Made with ❤️ by Balaji B
